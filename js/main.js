@@ -20,12 +20,12 @@
     /*然后画一下皮卡丘的鼻子*/
 
     .nose {
+        width: 0;
+        height: 0;
         border-top: 12px solid black;
         border-left: 12px solid transparent;
         border-right: 12px solid transparent;
         border-bottom: 12px solid  transparent;
-        width: 0;
-        height: 0;
         border-radius: 11px;
         position: absolute;
         top: 28px;
